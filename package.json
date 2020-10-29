@@ -1,0 +1,22 @@
+{
+  "name": "react-cart-example",
+  "description": null,
+  "version": "0.0.18",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "json-server": "^0.16.2",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
